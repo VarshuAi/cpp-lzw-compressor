@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  High-performance computational Lempel-Ziv-Welch compression utility written in C++.
+  name: cpp-lzw-compressor version: 1.0 type: Repository author: VarshuAi description: >   High-performance computational Lempel-Ziv-Welch compression utility written in C++. primary_tech: C++
 primary_tech: C++
 ```
 
